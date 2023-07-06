@@ -1,0 +1,3 @@
+example = ...
+if example is None:
+    print("shrel")
